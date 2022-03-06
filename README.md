@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NextGen ERAU Applied Research (NEAR) lab, which is located in Daytona Beach, Florida
+- 🔭 I’m currently working on NextGen ERAU Applied Research (NEAR) lab, which is located in Daytona Beach, Florida as a Software Engineer Student Researcher
+- https://www.near.aero/
+
 
 <!--
 - 🌱 I’m currently learning ...
