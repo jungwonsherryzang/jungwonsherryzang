@@ -7,7 +7,7 @@
 - and sometimes I am called AviationLover
 - - 🌱 I’m currently into Air Traffic Management(ATM), System Wide Information Management(SWIM), Service Oriented Architecture(SOA)
 - - 🌱                    Aviation Data (Flight, Weather, Aeronautical)
-- - 🌱                    Object-Oriented Design and Language - Jave, Python, JavaScript, TypeScript
+- - 🌱                    Object-Oriented Design and Language - JavaScript, TypeScript, Python
 - 
 - 📫 How to reach me: https://www.linkedin.com/in/sherry-jungwon-zang-493238130/
 
