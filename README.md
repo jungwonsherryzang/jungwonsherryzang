@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NextGen ERAU Applied Research (NEAR) lab, which is located in Daytona Beach, Florida as a Software Engineer Student Researcher
+- 🔭 I’m currently working on NextGen ERAU Applied Research (NEAR) lab as a Software Engineer Student Researcher
 - https://www.near.aero/
 - I like coding and doing something new and exciting!:)
 - Master Student who is doing wonderful projects and writing a thesis
