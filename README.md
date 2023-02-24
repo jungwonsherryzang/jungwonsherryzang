@@ -1,11 +1,11 @@
 ### Hi there 👋
 - I am an engineer who got Master degree and enjoy doing wonderful projects and writing a thesis
-- - and sometimes I am called AviationLover
+- and sometimes I am called AviationLover
 - - 🌱 I’m currently into Azure, Cosmos DB, Cloud Service/Computing
 - - 🌱                    Air Traffic Management(ATM), System Wide Information Management(SWIM), Service Oriented Architecture(SOA)
 - - 🌱                    Aviation Data (Flight, Weather, Aeronautical)
 - - 🌱                    Object-Oriented Design and Language - JavaScript, TypeScript, Python
-- - I like coding and doing something new and exciting!:)
+- I like coding and doing something new and exciting!:)
 
 
 - 🔭 I have worked on NextGen ERAU Applied Research (NEAR) lab as a Software Engineer Student Researcher in Florida
